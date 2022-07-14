@@ -1,0 +1,50 @@
+{
+    "registraduria": [
+        {
+            "id": 1,
+            "name": "Registraduria Cali",
+            "address": "Cr54#78",
+            "HoraApertura": "10:am - 5:pm"
+        },
+        {
+            "id": 2,
+            "name": "Registraduria Medellin",
+            "address": "Cr43#72",
+            "HoraApertura": "10:am - 5:pm"
+        },
+        {
+            "id": 3,
+            "name": "Registraduria Bogota",
+            "address": "Cr78#75",
+            "HoraApertura": "10:am - 5:pm"
+        },
+        {
+            "id": 4,
+            "name": "Registraduria Cartagena",
+            "address": "Cr14#32",
+            "HoraApertura": "10:am - 5:pm"
+        },
+        {
+            "id": 5,
+            "name": "Registraduria Cartagena",
+            "address": "Cr67#32",
+            "HoraApertura": "10:am - 5:pm"
+        }
+    ],
+    "registro": [
+        {
+            "id": "1",
+            "name": "2",
+            "password": "3"
+        }
+    ],
+    "formularioContacto": [
+        {
+            "nombre": "",
+            "apellido": "",
+            "correoelectronico": "",
+            "pregunta": "",
+            "mensaje": ""
+        }
+    ]
+}

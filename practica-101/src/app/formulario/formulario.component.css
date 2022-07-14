@@ -1,0 +1,13 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+    margin: 10px;
+}
+
+element {
+    line-height: 11px;
+    letter-spacing: 0.043em;
+    font-weight: 400;
+    font-size: 58px;
+  }

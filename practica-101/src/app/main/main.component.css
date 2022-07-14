@@ -1,0 +1,17 @@
+.center{
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.container{
+    padding: 20px;
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.btn btn-danger{
+    padding: 0 2;
+   margin-top: 20px;  
+}
